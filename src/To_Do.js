@@ -25,7 +25,7 @@ const lists = [
     },
 ]
 
-function To_Do() {
+function ToDo() {
     const [list,setList]=useState(lists)
     const [addInput,setAddInput]=useState('')
     const [editId,setEditId]=useState(null)
@@ -118,4 +118,4 @@ function To_Do() {
    )
 }
 
-export default To_Do
+export default ToDo
