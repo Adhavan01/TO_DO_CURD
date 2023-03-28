@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TO_DO_CURD/static/css/main.abd64e84.css",
+    "main.js": "/TO_DO_CURD/static/js/main.a69ff4de.js",
+    "index.html": "/TO_DO_CURD/index.html",
+    "main.abd64e84.css.map": "/TO_DO_CURD/static/css/main.abd64e84.css.map",
+    "main.a69ff4de.js.map": "/TO_DO_CURD/static/js/main.a69ff4de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.a69ff4de.js"
+  ]
+}
